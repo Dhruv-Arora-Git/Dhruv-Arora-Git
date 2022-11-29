@@ -1,16 +1,11 @@
 ### Hello GitHub, I am Dhruv Arora 👋
 
-## I'm a Student, YouTuber, and Competetive Programmer !!
+## I'm a Student, a Coder && YouTuber !!
 
-- 🔭 I just started competetive programming on CodeForces.com and CodeChef.com
-- 🌱 I’m currently learning DSA with C/C++
+- 🔭 Solved more than **800** problems on **LeetCode** && **GFG**
+- 🌱 I’m currently learning **ReactJS** while building *projects*
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love Rubik's Cubes and Ihave a collection of 50 different and cool puzzles
 
-### Music I Listen 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing.png" alt="Soft and Soulful Music" width="350" />](https://youtu.be/e-f_MKR8oDs)
 
 ### Connect with me:
 
@@ -26,9 +21,8 @@
 
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][linkedin]
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][linkedin]
-[<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][linkedin]
-[<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />][linkedin]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkedin]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][linkedin]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][linkedin]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][linkedin]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][linkedin]
@@ -39,6 +33,10 @@
 <br />
 
 ---
+
+### Music I Listen 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing.png" alt="Soft and Soulful Music" width="350" />](https://youtu.be/e-f_MKR8oDs)
 
 ### 📺 My Trending YouTube Videos
 
