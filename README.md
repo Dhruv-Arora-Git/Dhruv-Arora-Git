@@ -1,10 +1,13 @@
 ## I'm Dhruv Arora 👋 — Salesforce Developer, Trainer & Coder ⚡
 
-- 🔭 Solved more than **700+ problems** on **LeetCode** and **GeeksforGeeks**
-- 🌱 I’m currently learning **ReactJS** and building *practical projects*
-- 👯 I’m looking to collaborate with other developers and content creators
+- ✨ Salesforce Certified Associate & **5+ SuperBadge Holder**
+- 🏆 2x Ranger on **Trailhead** (200+ badges)
+- 🛠 Created **VS Code extension 'Krishna'**
+- 🌐 Built 2 Chrome extensions: **Apex Coverage Inspector** & **Apexify JSON**
 - 💼 Experienced in **Apex**, **LWC**, and building tools that developers love ⚒️
-- 🏅 Salesforce Certified | Passionate about mentoring and sharing knowledge
+- 👨‍🏫 Passionate about mentoring and sharing knowledge
+- - 🔭 Solved more than **700+ problems** on **LeetCode** and **GeeksforGeeks**
+
 
 
 
